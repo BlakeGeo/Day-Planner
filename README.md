@@ -6,7 +6,7 @@ Any notes that are typed into the planner can be saved to local storage by click
 The colours of each row are respective of the current time of day. Grey for past hours, red for the current hour and green for future hours.
 
 # Day Planner URL:
-
+https://blakegeo.github.io/Day-Planner/
 
 # Screenshot of Code Quiz
-![Screenshot of Day Planner page](Screenshot?raw=true "Day Planner")
+![Screenshot of Day Planner page](Screenshot.png?raw=true "Day Planner")
